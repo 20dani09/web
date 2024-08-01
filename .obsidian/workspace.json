@@ -11,8 +11,12 @@
             "id": "e207e026cd609048",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ]
@@ -137,8 +145,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b67e67e91716aec4",
+  "active": "e893b5dc1867c3ce",
   "lastOpenFiles": [
+    "Foothold",
+    "Untitled.md",
     "test.md",
     "1-Foothold/HTTP Request Smuggling",
     "1-Foothold/DOM-XSS",
