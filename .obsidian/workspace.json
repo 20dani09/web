@@ -137,8 +137,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e207e026cd609048",
+  "active": "e893b5dc1867c3ce",
   "lastOpenFiles": [
+    "1 - Foothold/test",
+    "1 - Foothold/Authentication/test.md",
+    "1 - Foothold/Authentication/test",
     "1 - Foothold/test.md",
     "1 - Foothold/Authentication",
     "1 - Foothold/Brute Force",
