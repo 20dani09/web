@@ -11,8 +11,12 @@
             "id": "e207e026cd609048",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test.md"
+              }
             }
           }
         ]
@@ -137,8 +145,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e893b5dc1867c3ce",
+  "active": "e207e026cd609048",
   "lastOpenFiles": [
+    "test.md",
     "1 - Foothold/test",
     "1 - Foothold/Authentication/test.md",
     "1 - Foothold/Authentication/test",
@@ -151,7 +160,6 @@
     "1 - Foothold/XSS",
     "1 - Foothold/DOM-XSS",
     "1 - Foothold/Content Discovery",
-    "1 - Foothold",
     "Welcome.md"
   ]
 }
