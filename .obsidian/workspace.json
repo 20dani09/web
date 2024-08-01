@@ -11,12 +11,8 @@
             "id": "e207e026cd609048",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,21 +139,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e207e026cd609048",
+  "active": "e893b5dc1867c3ce",
   "lastOpenFiles": [
+    "1-Foothold/HTTP Request Smuggling",
+    "1-Foothold/DOM-XSS",
+    "1-Foothold/test",
+    "1-Foothold/XSS",
+    "1-Foothold/Web Cache Poison",
+    "1-Foothold/Host Headers",
+    "1-Foothold/Content Discovery",
+    "1-Foothold/Brute Force",
+    "1-Foothold/Authentication",
+    "1-Foothold",
     "test.md",
     "1 - Foothold/test",
     "1 - Foothold/Authentication/test.md",
-    "1 - Foothold/Authentication/test",
     "1 - Foothold/test.md",
-    "1 - Foothold/Authentication",
-    "1 - Foothold/Brute Force",
-    "1 - Foothold/HTTP Request Smuggling",
-    "1 - Foothold/Host Headers",
-    "1 - Foothold/Web Cache Poison",
-    "1 - Foothold/XSS",
-    "1 - Foothold/DOM-XSS",
-    "1 - Foothold/Content Discovery",
     "Welcome.md"
   ]
 }
