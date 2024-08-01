@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,8 +137,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e893b5dc1867c3ce",
+  "active": "b67e67e91716aec4",
   "lastOpenFiles": [
+    "test.md",
     "1-Foothold/HTTP Request Smuggling",
     "1-Foothold/DOM-XSS",
     "1-Foothold/test",
@@ -151,8 +150,6 @@
     "1-Foothold/Brute Force",
     "1-Foothold/Authentication",
     "1-Foothold",
-    "test.md",
-    "1 - Foothold/test",
     "1 - Foothold/Authentication/test.md",
     "1 - Foothold/test.md",
     "Welcome.md"
