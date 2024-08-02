@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0758e2a51e22b0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burp scanner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Foothold/DOM-XSS/DOM-XSS.md",
+                "file": "Burp scanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Foothold/DOM-XSS/DOM-XSS.md",
+                "file": "Burp scanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Foothold/DOM-XSS/DOM-XSS.md"
+                "file": "Burp scanner.md"
               }
             }
           }
@@ -145,11 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e207e026cd609048",
+  "active": "e893b5dc1867c3ce",
   "lastOpenFiles": [
+    "Imgs",
+    "Imgs/Pasted image 20240802065951.png",
+    "1 - Foothold/DOM-XSS/DOM-XSS.md",
+    "Burp scanner.md",
     "1 - Foothold/DOM-XSS",
     "1 - Foothold",
-    "1 - Foothold/DOM-XSS/DOM-XSS.md",
     "test.md",
     "1-Foothold/HTTP Request Smuggling",
     "1-Foothold/DOM-XSS",
@@ -159,7 +175,6 @@
     "1-Foothold/Host Headers",
     "1-Foothold/Content Discovery",
     "1-Foothold/Brute Force",
-    "1-Foothold/Authentication",
     "1 - Foothold/Authentication/test.md",
     "1 - Foothold/test.md",
     "Welcome.md"
