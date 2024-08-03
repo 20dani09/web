@@ -18,3 +18,18 @@ In the comment section,
 
 # DOM XSS in `document.write` sink using source `location.search`
 
+![[Pasted image 20240803072009.png]]
+
+```html
+"><script>alert(1)</script>
+```
+
+![[Pasted image 20240803072133.png]]
+
+# DOM XSS in `innerHTML` sink using source `location.search`
+
+
+
+
+# DOM XSS in jQuery anchor `href` attribute sink using `location.search` source
+
