@@ -16,3 +16,5 @@ In the comment section,
 <script>alert(1)</script> 
 ```
 
+# DOM XSS in `document.write` sink using source `location.search`
+
