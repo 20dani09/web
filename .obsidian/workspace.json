@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/DOM-XSS/DOM-XSS.md",
+                "file": "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/DOM-XSS/DOM-XSS.md",
+                "file": "1 - Foothold/XSS/Apprentice.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Foothold/DOM-XSS/DOM-XSS.md",
+                "file": "1 - Foothold/XSS/Apprentice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Foothold/DOM-XSS/DOM-XSS.md",
+                "file": "1 - Foothold/XSS/Apprentice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Foothold/DOM-XSS/DOM-XSS.md"
+                "file": "1 - Foothold/XSS/Apprentice.md"
               }
             }
           }
@@ -160,11 +160,14 @@
   },
   "active": "0758e2a51e22b0f8",
   "lastOpenFiles": [
+    "1 - Foothold/XSS/Practitioner.md",
+    "1 - Foothold/XSS/Apprentice.md",
+    "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
+    "1 - Foothold/XSS",
     "Burp scanner.md",
-    "1 - Foothold/DOM-XSS/DOM-XSS.md",
     "Imgs",
     "Imgs/Pasted image 20240802065951.png",
-    "1 - Foothold/DOM-XSS",
+    "1 - Foothold/DOM-based vulnerabilities",
     "1 - Foothold",
     "test.md",
     "1-Foothold/HTTP Request Smuggling",
@@ -173,7 +176,6 @@
     "1-Foothold/XSS",
     "1-Foothold/Web Cache Poison",
     "1-Foothold/Host Headers",
-    "1-Foothold/Content Discovery",
     "1 - Foothold/Authentication/test.md",
     "1 - Foothold/test.md",
     "Welcome.md"
