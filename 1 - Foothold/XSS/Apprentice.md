@@ -63,5 +63,12 @@ javascript:alert(1)
 
 The value of the **search** request parameter is copied into the value of an HTML tag attribute which is encapsulated in double quotation marks. The payload **uy0y9"onfocus="alert(1)"autofocus="zkgoa** was submitted in the search parameter.
 
+# Stored XSS into anchor `href` attribute with double quotes HTML-encoded
+
+```js
+javascript:alert(1)
+```
+
+
 
 
