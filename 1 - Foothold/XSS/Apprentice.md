@@ -28,7 +28,11 @@ In the comment section,
 
 # DOM XSS in `innerHTML` sink using source `location.search`
 
+Data is read from **location.search** and passed to **element.innerHTML**.
 
+```js
+<img src onerror=alert(1)>
+```
 
 
 # DOM XSS in jQuery anchor `href` attribute sink using `location.search` source
