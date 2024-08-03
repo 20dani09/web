@@ -33,3 +33,11 @@ In the comment section,
 
 # DOM XSS in jQuery anchor `href` attribute sink using `location.search` source
 
+The application may be vulnerable to DOM-based link manipulation. Data is read from **location.search** and passed to **jQuery.attr.href**.
+
+```js
+javascript:alert(1)
+```
+
+![[Pasted image 20240803074347.png]]
+
