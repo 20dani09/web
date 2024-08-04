@@ -70,5 +70,24 @@ javascript:alert(1)
 ```
 
 
+## Reflected XSS into a JavaScript string with angle brackets HTML encoded
+
+![[Pasted image 20240804160039.png]]
+
+The value of the **search** request parameter is copied into a JavaScript string which is encapsulated in single quotation marks. The payload **71598';alert(1)//294** was submitted in the search parameter.
+
+![[Pasted image 20240804160323.png]]
+
+```js
+';alert(1)//
+```
+
+![[Pasted image 20240804160512.png]]
+
+
+
+
+
+
 
 

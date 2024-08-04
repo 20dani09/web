@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/XSS/Apprentice.md",
+                "file": "1 - Foothold/XSS/Practitioner.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Foothold/XSS/Apprentice.md",
+                "file": "1 - Foothold/XSS/Practitioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Foothold/XSS/Apprentice.md",
+                "file": "1 - Foothold/XSS/Practitioner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Foothold/XSS/Apprentice.md"
+                "file": "1 - Foothold/XSS/Practitioner.md"
               }
             }
           }
@@ -160,11 +160,14 @@
   },
   "active": "0758e2a51e22b0f8",
   "lastOpenFiles": [
+    "1 - Foothold/XSS/Apprentice.md",
+    "Imgs/Pasted image 20240804160512.png",
+    "Imgs/Pasted image 20240804160323.png",
+    "Imgs/Pasted image 20240804160039.png",
     "Imgs/Pasted image 20240803074347.png",
     "Imgs/Pasted image 20240803072133.png",
     "Imgs/Pasted image 20240803072009.png",
     "1 - Foothold/XSS/Practitioner.md",
-    "1 - Foothold/XSS/Apprentice.md",
     "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
     "1 - Foothold/XSS",
     "Burp scanner.md",
