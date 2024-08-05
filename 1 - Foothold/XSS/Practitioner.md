@@ -36,3 +36,16 @@ Here's the step-by-step breakdown of why this works:
 
 # Stored DOM XSS
 
+> Function replaces first angle brakets only:
+
+```js
+ function escapeHTML(html) {
+        return html.replace('<', '&lt;').replace('>', '&gt;');
+    }
+```
+
+```js
+<><img src=1 onerror=alert(1)>
+```
+
+
