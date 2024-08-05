@@ -20,4 +20,9 @@ test</select><img src=1 onerror=alert(1)>
 {{$on.constructor('alert(1)')()}}
 ```
 
+# Reflected DOM XSS
+
+The application may be vulnerable to DOM-based JavaScript injection. Data is read from **location.search** and passed to **eval**.
+
+
 
