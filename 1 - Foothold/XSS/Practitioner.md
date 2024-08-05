@@ -33,3 +33,6 @@ Here's the step-by-step breakdown of why this works:
 1. **Escape the JSON Context**: The `\"` escapes the JSON string.
 2. **Inject Code**: `-alert()` gets injected and executed.
 3. **Comment Out**: `}//` comments out the rest to prevent any syntax errors from the remaining code.
+
+# Stored DOM XSS
+
