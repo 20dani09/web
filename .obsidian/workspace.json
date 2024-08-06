@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
+                "file": "1 - Foothold/XSS/Practitioner.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,21 +158,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ee7cb9d41a0e24a",
+  "active": "e207e026cd609048",
   "lastOpenFiles": [
+    "Pasted image 20240806120249.md",
+    "1 - Foothold/XSS/Practitioner.md",
     "Imgs/Pasted image 20240806120249.png",
+    "Imgs/Pasted image 20240806115813.png",
+    "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
     "Imgs/Pasted image 20240806120431.png",
     "Imgs/Pasted image 20240806120427.png",
     "Imgs/Pasted image 20240806120258.png",
-    "Imgs/Pasted image 20240806115813.png",
-    "1 - Foothold/XSS/Practitioner.md",
     "Imgs/Pasted image 20240806120352.png",
     "Imgs/Pasted image 20240806115635.png",
     "Imgs/Pasted image 20240804162601.png",
     "1 - Foothold/XSS/Apprentice.md",
     "Imgs/Pasted image 20240804160512.png",
     "Imgs/Pasted image 20240804160323.png",
-    "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
     "1 - Foothold/XSS",
     "Burp scanner.md",
     "Imgs",
