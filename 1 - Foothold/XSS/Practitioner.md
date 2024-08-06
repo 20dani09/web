@@ -50,4 +50,20 @@ Here's the step-by-step breakdown of why this works:
 
 # Reflected XSS into HTML context with most tags and attributes blocked
 
+"Tag is not allowed"
+
+https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+
+Copy tags to clipboard
+
+![[Pasted image 20240806115813.png]]
+
+Status 200 --> <body>
+
+"Attribute is not allowed"
+
+Copy events to clipboard
+
+
+
 
