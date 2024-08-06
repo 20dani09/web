@@ -48,4 +48,6 @@ Here's the step-by-step breakdown of why this works:
 <><img src=1 onerror=alert(1)>
 ```
 
+# Reflected XSS into HTML context with most tags and attributes blocked
+
 
