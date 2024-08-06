@@ -142,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -158,24 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0758e2a51e22b0f8",
+  "active": "4ee7cb9d41a0e24a",
   "lastOpenFiles": [
+    "Imgs/Pasted image 20240806120249.png",
+    "Imgs/Pasted image 20240806120431.png",
+    "Imgs/Pasted image 20240806120427.png",
+    "Imgs/Pasted image 20240806120258.png",
     "Imgs/Pasted image 20240806115813.png",
-    "Imgs/Pasted image 20240806115635.png",
     "1 - Foothold/XSS/Practitioner.md",
+    "Imgs/Pasted image 20240806120352.png",
+    "Imgs/Pasted image 20240806115635.png",
     "Imgs/Pasted image 20240804162601.png",
     "1 - Foothold/XSS/Apprentice.md",
     "Imgs/Pasted image 20240804160512.png",
     "Imgs/Pasted image 20240804160323.png",
-    "Imgs/Pasted image 20240804160039.png",
-    "Imgs/Pasted image 20240803074347.png",
-    "Imgs/Pasted image 20240803072133.png",
-    "Imgs/Pasted image 20240803072009.png",
     "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
     "1 - Foothold/XSS",
     "Burp scanner.md",
     "Imgs",
-    "Imgs/Pasted image 20240802065951.png",
     "1 - Foothold/DOM-based vulnerabilities",
     "1 - Foothold",
     "test.md",
