@@ -107,8 +107,10 @@ location = 'https://0a21007b032e40bc807f498000a7008a.web-security-academy.net/?s
 
 ![[Pasted image 20240807120853.png]]
 
-```
+```js
 ?'accesskey='x'onclick='alert(1)
 ```
+
+# Reflected XSS into a JavaScript string with single quote and backslash escaped
 
 
