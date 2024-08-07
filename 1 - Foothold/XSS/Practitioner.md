@@ -99,5 +99,11 @@ location = 'https://0a21007b032e40bc807f498000a7008a.web-security-academy.net/?s
 <svg><animatetransform onbegin=alert(1) attributeName=transform>
 ```
 
+# Reflected XSS in canonical link tag
+
+```html
+<link rel="canonical" href='https://0a27005e04da85618195de30000a0031.web-security-academy.net/?feq46jyh'/>
+```
+
 
 
