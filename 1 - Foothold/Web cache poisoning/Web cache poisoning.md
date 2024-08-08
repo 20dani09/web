@@ -26,3 +26,8 @@ X-Host: wvv7qb16dsbmfio5z8d5hum5bwhp5gt9uxkka8z.oastify.com
 X-Forwarded-Server: wvv7qb16dsbmfio5z8d5hum5bwhp5gt9uxkka8z.oastify.com
 
 
+![[Pasted image 20240808105803.png]]
+
+X-Forwarded-Host: exploit-0ab30085047ba7ec862a98ec018d0091.exploit-server.net
+
+
