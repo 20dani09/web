@@ -132,3 +132,8 @@ The value of the **search** request parameter is copied into a JavaScript string
 
 
 
+# Stored XSS into `onclick` event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped
+
+```
+http://foo?&apos;-alert(1)-&apos;
+```
