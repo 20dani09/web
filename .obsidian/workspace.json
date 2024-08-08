@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/XSS/Practitioner.md",
+                "file": "1 - Foothold/Web cache poisoning/Web cache poisoning.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Foothold/XSS/Practitioner.md",
+                "file": "1 - Foothold/Web cache poisoning/Web cache poisoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Foothold/XSS/Practitioner.md",
+                "file": "1 - Foothold/Web cache poisoning/Web cache poisoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Foothold/XSS/Practitioner.md"
+                "file": "1 - Foothold/Web cache poisoning/Web cache poisoning.md"
               }
             }
           }
@@ -160,11 +160,15 @@
   },
   "active": "e207e026cd609048",
   "lastOpenFiles": [
+    "Imgs/Pasted image 20240808103015.png",
+    "Imgs/Pasted image 20240808103007.png",
+    "1 - Foothold/XSS/Practitioner.md",
+    "1 - Foothold/Web cache poisoning/Web cache poisoning.md",
+    "1 - Foothold/Web cache poisoning",
     "Imgs/Pasted image 20240808045534.png",
     "Imgs/Pasted image 20240807120853.png",
     "Imgs/Pasted image 20240807114732.png",
     "Pasted image 20240806120249.md",
-    "1 - Foothold/XSS/Practitioner.md",
     "Imgs/Pasted image 20240806120249.png",
     "Imgs/Pasted image 20240806115813.png",
     "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
@@ -172,8 +176,6 @@
     "Imgs/Pasted image 20240806120427.png",
     "Imgs/Pasted image 20240806120258.png",
     "Imgs/Pasted image 20240806120352.png",
-    "Imgs/Pasted image 20240806115635.png",
-    "Imgs/Pasted image 20240804162601.png",
     "1 - Foothold/XSS/Apprentice.md",
     "1 - Foothold/XSS",
     "Burp scanner.md",
@@ -186,7 +188,6 @@
     "1-Foothold/test",
     "1-Foothold/XSS",
     "1-Foothold/Web Cache Poison",
-    "1-Foothold/Host Headers",
     "1 - Foothold/Authentication/test.md",
     "1 - Foothold/test.md",
     "Welcome.md"
