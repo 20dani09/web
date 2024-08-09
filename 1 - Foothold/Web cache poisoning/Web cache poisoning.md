@@ -39,4 +39,13 @@ Exploit server:
 ![[Pasted image 20240808112148.png]]
 
 
+# Web cache poisoning with an unkeyed cookie
+
+![[Pasted image 20240808152709.png]]
+
+```js
+test"-alert(1)-"test
+```
+
+![[Pasted image 20240808152936.png]]
 
