@@ -49,3 +49,11 @@ test"-alert(1)-"test
 
 ![[Pasted image 20240808152936.png]]
 
+# Web cache poisoning with multiple headers
+
+![[Pasted image 20240809035334.png]]
+
+The `Location` header shows that you are being redirected to the same URL that you requested, but using `https://`
+
+![[Pasted image 20240809035608.png]]
+
