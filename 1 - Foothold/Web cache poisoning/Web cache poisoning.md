@@ -82,7 +82,7 @@ Vary: User-Agent
 ```
 
 User-Agent: Mozilla/5.0 (Victim) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-
+Change User-Agent on the request
 ![[Pasted image 20240809114403.png]]
 
 
