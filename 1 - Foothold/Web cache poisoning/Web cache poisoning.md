@@ -85,4 +85,19 @@ User-Agent: Mozilla/5.0 (Victim) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/1
 Change User-Agent on the request
 ![[Pasted image 20240809114403.png]]
 
+# Web cache poisoning via an unkeyed query string
+
+utm_content=yui1kx7r00
+
+```js
+/?cb=1244&utm_content=vaina'/><script>alert(1)</script>
+```
+
+
+# Web cache poisoning via an unkeyed query parameter
+
+
+
+
+
 
