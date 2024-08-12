@@ -119,3 +119,10 @@ Param Miner extension doing a `Bulk scan > Rails parameter cloaking scan` will _
 ![[Pasted image 20240812073926.png]]
 
 
+# URL normalization
+
+```js
+/random><script>alert(1)</script>
+```
+
+![[Pasted image 20240812075430.png]]
