@@ -103,4 +103,10 @@ Origin: x
 /?utm_content=123'/><script>alert(1)</script>
 ```
 
+# Parameter cloaking
 
+Param Miner extension doing a `Bulk scan > Rails parameter cloaking scan` will _**identify**_ the vulnerability automatically. Manually it can be identified by adding `;` to append another parameter to `utm_content`, the cache treats this as a single parameter. This means that the extra parameter is also excluded from the cache key.
+
+```js
+/js/geolocate.js?callback=setCountryCookie&utm_content=foo;callback=alert(1)
+```
