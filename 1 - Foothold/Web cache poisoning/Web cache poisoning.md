@@ -116,3 +116,6 @@ Param Miner extension doing a `Bulk scan > Rails parameter cloaking scan` will _
 
 ![[Pasted image 20240812072707.png]]
 
+![[Pasted image 20240812073926.png]]
+
+
