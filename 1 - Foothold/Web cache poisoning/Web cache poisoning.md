@@ -110,3 +110,9 @@ Param Miner extension doing a `Bulk scan > Rails parameter cloaking scan` will _
 ```js
 /js/geolocate.js?callback=setCountryCookie&utm_content=foo;callback=alert(1)
 ```
+
+
+# Web cache poisoning via a fat GET request
+
+![[Pasted image 20240812072707.png]]
+
