@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/Host header/Apprentice.md",
+                "file": "1 - Foothold/Host header/Practitioner.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/XSS/Practitioner.md",
+                "file": "1 - Foothold/Host header/Practitioner.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Foothold/Host header/Apprentice.md",
+                "file": "1 - Foothold/Host header/Practitioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Foothold/Host header/Apprentice.md",
+                "file": "1 - Foothold/Host header/Practitioner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Foothold/Host header/Apprentice.md"
+                "file": "1 - Foothold/Host header/Practitioner.md"
               }
             }
           }
@@ -158,14 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e207e026cd609048",
+  "active": "0758e2a51e22b0f8",
   "lastOpenFiles": [
+    "1 - Foothold/Web cache poisoning/Web cache poisoning.md",
+    "1 - Foothold/XSS/Practitioner.md",
+    "1 - Foothold/Host header/Practitioner.md",
+    "1 - Foothold/Host header/Apprentice.md",
     "Imgs/Pasted image 20240813044439.png",
     "Imgs/Pasted image 20240813044414.png",
     "Burp scanner.md",
-    "1 - Foothold/Host header/Apprentice.md",
     "1 - Foothold/Host header",
-    "1 - Foothold/Web cache poisoning/Web cache poisoning.md",
     "Imgs/Pasted image 20240812075430.png",
     "Imgs/Pasted image 20240812073926.png",
     "Imgs/Pasted image 20240812072707.png",
@@ -174,8 +177,6 @@
     "Imgs/Pasted image 20240809035334.png",
     "Imgs/Pasted image 20240808152936.png",
     "Imgs/Pasted image 20240808152709.png",
-    "Imgs/Pasted image 20240808112148.png",
-    "1 - Foothold/XSS/Practitioner.md",
     "1 - Foothold/Web cache poisoning",
     "Pasted image 20240806120249.md",
     "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
