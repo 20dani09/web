@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Burp scanner.md",
+                "file": "1 - Foothold/Host header/Apprentice.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Burp scanner.md",
+                "file": "1 - Foothold/Host header/Apprentice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Burp scanner.md",
+                "file": "1 - Foothold/Host header/Apprentice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Burp scanner.md"
+                "file": "1 - Foothold/Host header/Apprentice.md"
               }
             }
           }
@@ -160,6 +160,11 @@
   },
   "active": "e207e026cd609048",
   "lastOpenFiles": [
+    "Imgs/Pasted image 20240813044439.png",
+    "Imgs/Pasted image 20240813044414.png",
+    "Burp scanner.md",
+    "1 - Foothold/Host header/Apprentice.md",
+    "1 - Foothold/Host header",
     "1 - Foothold/Web cache poisoning/Web cache poisoning.md",
     "Imgs/Pasted image 20240812075430.png",
     "Imgs/Pasted image 20240812073926.png",
@@ -170,14 +175,12 @@
     "Imgs/Pasted image 20240808152936.png",
     "Imgs/Pasted image 20240808152709.png",
     "Imgs/Pasted image 20240808112148.png",
-    "Imgs/Pasted image 20240808105803.png",
     "1 - Foothold/XSS/Practitioner.md",
     "1 - Foothold/Web cache poisoning",
     "Pasted image 20240806120249.md",
     "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
     "1 - Foothold/XSS/Apprentice.md",
     "1 - Foothold/XSS",
-    "Burp scanner.md",
     "Imgs",
     "1 - Foothold/DOM-based vulnerabilities",
     "1 - Foothold",
@@ -186,7 +189,6 @@
     "1-Foothold/DOM-XSS",
     "1-Foothold/test",
     "1-Foothold/XSS",
-    "1-Foothold/Web Cache Poison",
     "1 - Foothold/Authentication/test.md",
     "1 - Foothold/test.md",
     "Welcome.md"
