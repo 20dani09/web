@@ -15,4 +15,8 @@ X-Forwarded-Server: exploit-server.com
 ![[Pasted image 20240813044439.png]]
 # Host header authentication bypass
 
+Admin interface only available to local users
 
+```
+Host: localhost
+```
