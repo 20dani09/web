@@ -2,6 +2,10 @@ ____
 # Web cache poisoning via ambiguous requests
 
 
-Host: 0a4300ef0342c1148188845d00e100e5.h1-web-security-academy.net:54883
+```
+Host: 0a4300ef0342c1148188845d00e100e5.h1-web-security-academy.net
+Host: exploit-0aa3008c0314c1e4811283cb01df00f2.exploit-server.net
+```
+
 
 
