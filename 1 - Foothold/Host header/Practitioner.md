@@ -21,5 +21,9 @@ Check connection
 
 ![[Pasted image 20240814051104.png]]
 
+Delete user
+
 ![[Pasted image 20240814051923.png]]
+
+# Host validation bypass via connection state attack
 
