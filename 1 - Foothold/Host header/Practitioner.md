@@ -13,3 +13,13 @@ Host: exploit-0aa3008c0314c1e4811283cb01df00f2.exploit-server.net
 
 ![[Pasted image 20240814045428.png]]
 
+# SSRF via flawed request parsing
+
+![[Pasted image 20240814050832.png]]
+
+Check connection 
+
+![[Pasted image 20240814051104.png]]
+
+![[Pasted image 20240814051923.png]]
+
