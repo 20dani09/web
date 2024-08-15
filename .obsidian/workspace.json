@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md",
+                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md",
+                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md",
+                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md"
+                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md"
               }
             }
           }
@@ -160,10 +160,14 @@
   },
   "active": "e207e026cd609048",
   "lastOpenFiles": [
+    "Imgs/Pasted image 20240815102523.png",
+    "Imgs/Pasted image 20240815101531.png",
+    "Imgs/Pasted image 20240815101442.png",
+    "Imgs/Pasted image 20240815101327.png",
+    "1 - Foothold/HTTP Smuggling/Practitioner.md",
     "Imgs/Pasted image 20240815063631.png",
     "Imgs/Pasted image 20240815060930.png",
     "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
-    "1 - Foothold/HTTP Smuggling/Practitioner.md",
     "Imgs/Pasted image 20240815043936.png",
     "1 - Foothold/Host header/Practitioner.md",
     "Imgs/Pasted image 20240814132925.png",
@@ -171,10 +175,6 @@
     "1 - Foothold/HTTP Smuggling",
     "Imgs/Pasted image 20240814054242.png",
     "Imgs/Pasted image 20240814051923.png",
-    "Imgs/Pasted image 20240814051104.png",
-    "Imgs/Pasted image 20240814050832.png",
-    "Imgs/Pasted image 20240814045428.png",
-    "Imgs/Pasted image 20240814045000.png",
     "1 - Foothold/Web cache poisoning/Web cache poisoning.md",
     "1 - Foothold/XSS/Practitioner.md",
     "1 - Foothold/Host header/Apprentice.md",
