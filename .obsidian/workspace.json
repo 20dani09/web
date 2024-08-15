@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/Host header/Practitioner.md",
+                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
+                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
+                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
+                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md"
+                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md"
               }
             }
           }
@@ -161,10 +161,11 @@
   },
   "active": "0758e2a51e22b0f8",
   "lastOpenFiles": [
+    "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
+    "1 - Foothold/HTTP Smuggling/Practitioner.md",
+    "1 - Foothold/Host header/Practitioner.md",
     "Imgs/Pasted image 20240814132925.png",
     "Imgs/Pasted image 20240814132824.png",
-    "1 - Foothold/Host header/Practitioner.md",
-    "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
     "1 - Foothold/HTTP Smuggling",
     "Imgs/Pasted image 20240814054242.png",
     "Imgs/Pasted image 20240814051923.png",
@@ -179,7 +180,6 @@
     "Imgs/Pasted image 20240813044414.png",
     "Burp scanner.md",
     "1 - Foothold/Host header",
-    "Imgs/Pasted image 20240812075430.png",
     "1 - Foothold/Web cache poisoning",
     "Pasted image 20240806120249.md",
     "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
