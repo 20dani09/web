@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
+                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
+                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
+                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md"
+                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "0758e2a51e22b0f8",
   "lastOpenFiles": [
-    "1 - Foothold/HTTP Smuggling/Practitioner.md",
+    "Imgs/Pasted image 20240815060930.png",
     "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
+    "1 - Foothold/HTTP Smuggling/Practitioner.md",
     "Imgs/Pasted image 20240815043936.png",
     "1 - Foothold/Host header/Practitioner.md",
     "Imgs/Pasted image 20240814132925.png",
