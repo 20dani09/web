@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
+                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
+                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md"
+                "file": "1 - Foothold/HTTP Smuggling/Practitioner.md"
               }
             }
           }
@@ -158,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e207e026cd609048",
+  "active": "0758e2a51e22b0f8",
   "lastOpenFiles": [
+    "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
     "Imgs/Pasted image 20240815110330.png",
     "Imgs/Pasted image 20240815110239.png",
     "Imgs/Pasted image 20240815110132.png",
     "1 - Foothold/HTTP Smuggling/Practitioner.md",
-    "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
     "Imgs/Pasted image 20240815102523.png",
     "Imgs/Pasted image 20240815101531.png",
     "Imgs/Pasted image 20240815101442.png",
@@ -173,7 +174,6 @@
     "Imgs/Pasted image 20240815060930.png",
     "Imgs/Pasted image 20240815043936.png",
     "1 - Foothold/Host header/Practitioner.md",
-    "Imgs/Pasted image 20240814132925.png",
     "1 - Foothold/HTTP Smuggling",
     "1 - Foothold/Web cache poisoning/Web cache poisoning.md",
     "1 - Foothold/XSS/Practitioner.md",
