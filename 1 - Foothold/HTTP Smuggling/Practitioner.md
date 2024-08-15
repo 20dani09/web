@@ -63,3 +63,6 @@ Host: localhost
 
 x=
 ```
+
+# Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability
+
