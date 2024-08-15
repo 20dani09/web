@@ -25,14 +25,40 @@ abc
 X
 ```
 
+Confirm
 
+```
+Content-Length: 6
+Transfer-Encoding: chunked
+
+0
+
+X
+```
 
 
 # TE.CL
 
+Detect
+```
+Content-Length: 6
+Transfer-Encoding: chunked
 
+3
+abc
+X
+```
 
+Confirm
 
+```
+Content-Length: 6
+Transfer-Encoding: chunked
+
+0
+
+X
+```
 
 
 
