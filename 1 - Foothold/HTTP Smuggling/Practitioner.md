@@ -79,3 +79,9 @@ The front-end server adds an HTTP header to incoming requests containing their I
 
 # Exploiting HTTP request smuggling to capture other users' requests
 
+![[Pasted image 20240816042904.png]]
+
+![[Pasted image 20240816042931.png]]
+
+# Exploiting HTTP request smuggling to deliver reflected XSS
+
