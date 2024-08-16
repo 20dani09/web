@@ -68,3 +68,12 @@ x=
 
 ![[Pasted image 20240815131026.png]]
 
+# Exploiting HTTP request smuggling to reveal front-end request rewriting
+
+The front-end server adds an HTTP header to incoming requests containing their IP address. It's similar to the `X-Forwarded-For` header but has a different name.
+
+![[Pasted image 20240815133129.png]]
+
+
+![[Pasted image 20240815133321.png]]
+
