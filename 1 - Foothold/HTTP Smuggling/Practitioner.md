@@ -77,3 +77,5 @@ The front-end server adds an HTTP header to incoming requests containing their I
 
 ![[Pasted image 20240815133321.png]]
 
+# Exploiting HTTP request smuggling to capture other users' requests
+
