@@ -91,3 +91,8 @@ The front-end server adds an HTTP header to incoming requests containing their I
 
 ![[Pasted image 20240817051727.png]]
 
+# H2.CL request smuggling
+
+- CL.0 desync: h2CL|GET /favicon.ico
+![[Pasted image 20240817070314.png]]
+
