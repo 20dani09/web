@@ -87,3 +87,5 @@ The front-end server adds an HTTP header to incoming requests containing their I
 
 ![[Pasted image 20240816045156.png]]
 
+# Response queue poisoning via H2.TE request smuggling
+
