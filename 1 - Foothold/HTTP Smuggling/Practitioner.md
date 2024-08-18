@@ -111,3 +111,4 @@ x=1
 ```
 
 
+# HTTP/2 request smuggling via CRLF injection
