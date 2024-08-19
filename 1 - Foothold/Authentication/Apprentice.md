@@ -12,5 +12,11 @@ Just try to access the next endpoint directly
 /my-account?id=carlos
 ```
 
+# Password reset broken logic
 
+```
+Change username in POST request after password-reset link
+```
+
+![[Pasted image 20240819060645.png]]
 
