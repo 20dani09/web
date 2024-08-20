@@ -20,3 +20,8 @@ Change username in POST request after password-reset link
 
 ![[Pasted image 20240819060645.png]]
 
+# Username enumeration via subtly different responses
+
+Grep extract
+
+![[Pasted image 20240819074802.png]]
