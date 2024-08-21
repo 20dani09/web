@@ -50,3 +50,8 @@ carlos - kek3 etc...
 
 It blocks only existing accounts, so try to brute the same list of passwords until one of accounts from the list is not blocked.
 To brute password use grep with errors to find a request without error
+
+![[Pasted image 20240821043248.png]]
+
+![[Pasted image 20240821043325.png]]
+
