@@ -28,3 +28,9 @@ Grep extract
 
 # Username enumeration via response timing
 
+![[Pasted image 20240820125651.png]]
+
+![[Pasted image 20240820125617.png]]
+
+# Broken brute-force protection, IP block
+
