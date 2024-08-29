@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/HTTP Smuggling/Examples.md",
+                "file": "1 - Foothold/XSS/Apprentice.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,6 +173,10 @@
   },
   "active": "0758e2a51e22b0f8",
   "lastOpenFiles": [
+    "1 - Foothold/XSS/Apprentice.md",
+    "1 - Foothold/XSS/Practitioner.md",
+    "1 - Foothold/HTTP Smuggling/Examples.md",
+    "1 - Foothold/Authentication/Apprentice.md",
     "Imgs/Pasted image 20240829123137.png",
     "Imgs/Pasted image 20240821043325.png",
     "Imgs/Pasted image 20240821043248.png",
@@ -183,23 +187,18 @@
     "Imgs/Pasted image 20240819060645.png",
     "Imgs/Pasted image 20240819055145.png",
     "1 - Foothold/HTTP Smuggling/Practitioner.md",
-    "1 - Foothold/Authentication/Apprentice.md",
     "1 - Foothold/Authentication",
     "Imgs/Pasted image 20240817070314.png",
     "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
-    "Imgs/Pasted image 20240817051727.png",
-    "1 - Foothold/HTTP Smuggling/Examples.md",
     "1 - Foothold/Host header/Practitioner.md",
     "1 - Foothold/HTTP Smuggling",
     "1 - Foothold/Web cache poisoning/Web cache poisoning.md",
-    "1 - Foothold/XSS/Practitioner.md",
     "1 - Foothold/Host header/Apprentice.md",
     "Burp scanner.md",
     "1 - Foothold/Host header",
     "1 - Foothold/Web cache poisoning",
     "Pasted image 20240806120249.md",
     "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
-    "1 - Foothold/XSS/Apprentice.md",
     "1 - Foothold/XSS",
     "Imgs",
     "1 - Foothold/DOM-based vulnerabilities",
