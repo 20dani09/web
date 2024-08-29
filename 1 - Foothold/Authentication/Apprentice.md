@@ -55,3 +55,7 @@ To brute password use grep with errors to find a request without error
 
 ![[Pasted image 20240821043325.png]]
 
+# 2FA broken logic
+
+
+
