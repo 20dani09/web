@@ -57,5 +57,17 @@ To brute password use grep with errors to find a request without error
 
 # 2FA broken logic
 
+```
+Observe there is verify=wiener in cookie while sending 2FA code
+Change it to our victim's nickname and simply brute 2FA code
+```
 
+
+# Brute-forcing a stay-logged-in cookie
+
+Decoded Stay logged in from base64
+
+wiener:51dc30ddc473d43a6011e9ebba6ca770
+
+51dc30ddc473d43a6011e9ebba6ca770 --> md5 --> peter
 
