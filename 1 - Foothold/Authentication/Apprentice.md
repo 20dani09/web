@@ -92,3 +92,8 @@ It will process Host Header Injection
 
 /forgot-password?temp-forgot-password-token=qsh1gvoveepzfygxccgv5rzdelnn4tl2
 
+# Password brute-force via password change
+
+![[Pasted image 20240830070502.png]]
+
+
