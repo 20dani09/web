@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Foothold/Authentication/Apprentice.md",
+                "file": "2 - Privilege Escalation/CSRF/Cross-site request forgery.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Foothold/Authentication/Apprentice.md",
+                "file": "2 - Privilege Escalation/CSRF/Cross-site request forgery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Foothold/Authentication/Apprentice.md",
+                "file": "2 - Privilege Escalation/CSRF/Cross-site request forgery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Foothold/Authentication/Apprentice.md"
+                "file": "2 - Privilege Escalation/CSRF/Cross-site request forgery.md"
               }
             }
           }
@@ -173,12 +173,15 @@
   },
   "active": "0758e2a51e22b0f8",
   "lastOpenFiles": [
+    "1 - Foothold/Authentication/Apprentice.md",
+    "2 - Privilege Escalation/CSRF/Cross-site request forgery.md",
+    "2 - Privilege Escalation/CSRF",
+    "2 - Privilege Escalation",
     "Imgs/Pasted image 20240830070502.png",
     "Imgs/Pasted image 20240830065444.png",
     "1 - Foothold/XSS/Apprentice.md",
     "1 - Foothold/XSS/Practitioner.md",
     "1 - Foothold/HTTP Smuggling/Examples.md",
-    "1 - Foothold/Authentication/Apprentice.md",
     "Imgs/Pasted image 20240829123137.png",
     "Imgs/Pasted image 20240821043325.png",
     "Imgs/Pasted image 20240821043248.png",
@@ -187,7 +190,6 @@
     "Imgs/Pasted image 20240820125617.png",
     "Imgs/Pasted image 20240819074802.png",
     "Imgs/Pasted image 20240819060645.png",
-    "Imgs/Pasted image 20240819055145.png",
     "1 - Foothold/HTTP Smuggling/Practitioner.md",
     "1 - Foothold/Authentication",
     "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
@@ -205,8 +207,6 @@
     "1 - Foothold/DOM-based vulnerabilities",
     "1 - Foothold",
     "test.md",
-    "1-Foothold/HTTP Request Smuggling",
-    "1-Foothold/DOM-XSS",
     "1 - Foothold/Authentication/test.md",
     "1 - Foothold/test.md",
     "Welcome.md"
