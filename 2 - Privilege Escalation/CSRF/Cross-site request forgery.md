@@ -20,7 +20,7 @@ Enable the option to include an auto-submit script and click "Regenerate".
 </html>
 ```
 
-## CSRF where token validation depends on request method
+# CSRF where token validation depends on request method
 
 With POST --> missing parameter CSRF
 
@@ -42,7 +42,7 @@ GET
 </html>
 ```
 
-## CSRF where token validation depends on token being present
+# CSRF where token validation depends on token being present
 
 Delete the `csrf` parameter entirely and observe that the request is now accepted.
 
@@ -51,3 +51,7 @@ Delete the `csrf` parameter entirely and observe that the request is now accepte
 ```
 Before using CSRF token in request, check it in HTML code and perform a CSRF attack with it.
 ```
+
+# CSRF where token is tied to non-session cookie
+
+
