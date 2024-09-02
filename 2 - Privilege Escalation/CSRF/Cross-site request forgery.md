@@ -42,4 +42,12 @@ GET
 </html>
 ```
 
+## CSRF where token validation depends on token being present
 
+Delete the `csrf` parameter entirely and observe that the request is now accepted.
+
+# CSRF where token is not tied to user session
+
+```
+Before using CSRF token in request, check it in HTML code and perform a CSRF attack with it.
+```
