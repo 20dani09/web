@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Data Exfiltration/Path Traversal/Path Traversal.md",
+                "file": "Burp scanner.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Data Exfiltration/Path Traversal/Path Traversal.md",
+                "file": "Burp scanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Data Exfiltration/Path Traversal/Path Traversal.md",
+                "file": "Burp scanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Data Exfiltration/Path Traversal/Path Traversal.md"
+                "file": "Burp scanner.md"
               }
             }
           }
@@ -185,9 +185,9 @@
   },
   "active": "47cd5e418f0c7eb1",
   "lastOpenFiles": [
+    "3 - Data Exfiltration/Path Traversal/Path Traversal.md",
     "Imgs/Pasted image 20240904071816.png",
     "3 - Data Exfiltration/OS Command Injection/OS Command Injection.md",
-    "3 - Data Exfiltration/Path Traversal/Path Traversal.md",
     "3 - Data Exfiltration/Path Traversal",
     "3 - Data Exfiltration/OS Command Injection",
     "3 - Data Exfiltration",
@@ -207,7 +207,6 @@
     "Imgs/Pasted image 20240820125651.png",
     "Imgs/Pasted image 20240820125617.png",
     "Imgs/Pasted image 20240819074802.png",
-    "Imgs/Pasted image 20240819060645.png",
     "1 - Foothold/HTTP Smuggling/Practitioner.md",
     "1 - Foothold/Authentication",
     "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
