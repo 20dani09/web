@@ -18,4 +18,6 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecur
 
 # Web shell upload via Content-Type restriction bypass
 
+Content-Type: image/jpeg
+
 
