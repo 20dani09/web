@@ -10,4 +10,12 @@ POST /my-account/change-email
 }
 ```
 
+# URL-based access control can be circumvented
 
+![[Pasted image 20240912095009.png]]
+
+# Method-based access control can be circumvented
+
+```
+username=wiener&action=upgrade
+```
