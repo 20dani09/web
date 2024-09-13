@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Privilege Escalation/Access Control/Access Control.md",
+                "file": "2 - Privilege Escalation/GraphQL API/GraphQL API.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Privilege Escalation/Access Control/Access Control.md",
+                "file": "2 - Privilege Escalation/GraphQL API/GraphQL API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Privilege Escalation/Access Control/Access Control.md",
+                "file": "2 - Privilege Escalation/GraphQL API/GraphQL API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Privilege Escalation/Access Control/Access Control.md"
+                "file": "2 - Privilege Escalation/GraphQL API/GraphQL API.md"
               }
             }
           }
@@ -185,9 +185,11 @@
   },
   "active": "47cd5e418f0c7eb1",
   "lastOpenFiles": [
+    "2 - Privilege Escalation/Access Control/Access Control.md",
+    "2 - Privilege Escalation/GraphQL API/GraphQL API.md",
+    "2 - Privilege Escalation/GraphQL API",
     "Imgs/Pasted image 20240912095009.png",
     "Burp scanner.md",
-    "2 - Privilege Escalation/Access Control/Access Control.md",
     "2 - Privilege Escalation/Access Control",
     "Imgs/Pasted image 20240911131800.png",
     "Imgs/Pasted image 20240911123945.png",
@@ -214,12 +216,10 @@
     "3 - Data Exfiltration/OS Command Injection",
     "3 - Data Exfiltration",
     "2 - Privilege Escalation/CSRF",
-    "2 - Privilege Escalation",
     "Imgs/Pasted image 20240830070502.png",
     "Imgs/Pasted image 20240830065444.png",
     "1 - Foothold/XSS/Practitioner.md",
     "1 - Foothold/HTTP Smuggling/Examples.md",
-    "Imgs/Pasted image 20240829123137.png",
     "1 - Foothold/HTTP Smuggling/HTTP Smuggling.md",
     "1 - Foothold/Host header/Practitioner.md",
     "1 - Foothold/Web cache poisoning/Web cache poisoning.md",
