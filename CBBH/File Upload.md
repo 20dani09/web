@@ -21,5 +21,7 @@ Content-Disposition: form-data; name="uploadFile"; filename="example.php"
 ------WebKitFormBoundaryCvO4Bc8WOa0Vgrwt--
 ```
 
+https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/web-extensions.txt
+
 
 
