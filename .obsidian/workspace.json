@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Data Exfiltration/File Upload/File Upload.md",
+                "file": "CBBH/SQL Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Data Exfiltration/File Upload/File Upload.md",
+                "file": "CBBH/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Data Exfiltration/File Upload/File Upload.md",
+                "file": "CBBH/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Data Exfiltration/File Upload/File Upload.md"
+                "file": "CBBH/SQL Injection.md"
               }
             }
           }
@@ -197,8 +197,9 @@
   },
   "active": "76041fa3186164ab",
   "lastOpenFiles": [
-    "CBBH/File Upload.md",
     "3 - Data Exfiltration/File Upload/File Upload.md",
+    "CBBH/SQL Injection.md",
+    "CBBH/File Upload.md",
     "2 - Privilege Escalation/GraphQL API/GraphQL API.md",
     "CBBH/Untitled",
     "CBBH",
@@ -241,7 +242,6 @@
     "1 - Foothold/DOM-based vulnerabilities/DOM-XSS.md",
     "test.md",
     "1 - Foothold/Authentication/test.md",
-    "1 - Foothold/test.md",
-    "Welcome.md"
+    "1 - Foothold/test.md"
   ]
 }
