@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBBH/File Upload.md",
+                "file": "3 - Data Exfiltration/File Upload/File Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBBH/File Upload.md",
+                "file": "3 - Data Exfiltration/File Upload/File Upload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBBH/File Upload.md"
+                "file": "3 - Data Exfiltration/File Upload/File Upload.md"
               }
             }
           }
@@ -195,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47cd5e418f0c7eb1",
+  "active": "76041fa3186164ab",
   "lastOpenFiles": [
-    "3 - Data Exfiltration/File Upload/File Upload.md",
     "CBBH/File Upload.md",
+    "3 - Data Exfiltration/File Upload/File Upload.md",
     "2 - Privilege Escalation/GraphQL API/GraphQL API.md",
     "CBBH/Untitled",
     "CBBH",
