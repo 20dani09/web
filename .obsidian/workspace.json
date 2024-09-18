@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBBH/SQL Injection.md",
+                "file": "2 - Privilege Escalation/SQL-Injection/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBBH/SQL Injection.md",
+                "file": "2 - Privilege Escalation/SQL-Injection/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBBH/SQL Injection.md"
+                "file": "2 - Privilege Escalation/SQL-Injection/SQL Injection.md"
               }
             }
           }
@@ -207,11 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76041fa3186164ab",
+  "active": "cf2230f88795489d",
   "lastOpenFiles": [
+    "CBBH/SQL Injection.md",
     "Imgs/Pasted image 20240918044930.png",
     "2 - Privilege Escalation/SQL-Injection/SQL Injection.md",
-    "CBBH/SQL Injection.md",
     "3 - Data Exfiltration/File Upload/File Upload.md",
     "CBBH/File Upload.md",
     "2 - Privilege Escalation/GraphQL API/GraphQL API.md",
@@ -233,7 +233,6 @@
     "2 - Privilege Escalation/Json Web Tokens/JWT.md",
     "2 - Privilege Escalation/API Testing",
     "Imgs/Pasted image 20240910111754.png",
-    "Imgs/Pasted image 20240910071753.png",
     "2 - Privilege Escalation/Json Web Tokens",
     "2 - Privilege Escalation/SQL-Injection",
     "2 - Privilege Escalation/CSRF/Cross-site request forgery.md",
